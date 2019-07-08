@@ -1,4 +1,4 @@
-Digital Hermeneutics 2019
+# Digital Hermeneutics 2019
 
  - Instructor: Tom van Nuenen
  - Email: tom.van_nuenen@kcl.ac.uk
